@@ -27,7 +27,7 @@ Telegram бот для просмотра расписания [TAG](https://tag
 
 1. **Клонировать репозиторий:**
 ```bash
-git clone https://github.com/yourusername/tag-timetable-bot.git](https://github.com/OtVaL228/TAG_EduPage.git
+git clone https://github.com/OtVaL228/TAG_EduPage.git
 cd TAG_EduPage
 ```
 
